@@ -1,5 +1,5 @@
 {
-	"name": "kdyby/tracy-timer",
+	"name": "esoft-marphy/tracy-timer",
 	"type": "library",
 	"description": "Timer bar for Tracy (Nette Framework)",
 	"keywords": [
